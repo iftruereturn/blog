@@ -1,0 +1,25 @@
+{
+  "name": "blog",
+  "version": "0.0.1",
+  "description": "My blog",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "pug": "^2.0.0-beta6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "express",
+    "expressjs",
+    "pug",
+    "blog"
+  ],
+  "author": "iftruereturn",
+  "license": "ISC"
+}
